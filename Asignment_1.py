@@ -1,6 +1,6 @@
 # Name: Le Minh Dat Duong
 # ID: 100886108
-# Assignment 1 - Data Structure and Algorithms pp
+# Assignment 1 - Data Structure and Algorithms
 
 import time 
 import sys
